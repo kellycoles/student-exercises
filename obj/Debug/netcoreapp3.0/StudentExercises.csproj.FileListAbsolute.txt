@@ -1,0 +1,11 @@
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.exe
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.deps.json
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.runtimeconfig.json
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.runtimeconfig.dev.json
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.dll
+C:\Users\kelly\workspace\csharp\StudentExercises\bin\Debug\netcoreapp3.0\StudentExercises.pdb
+C:\Users\kelly\workspace\csharp\StudentExercises\obj\Debug\netcoreapp3.0\StudentExercises.csprojAssemblyReference.cache
+C:\Users\kelly\workspace\csharp\StudentExercises\obj\Debug\netcoreapp3.0\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\kelly\workspace\csharp\StudentExercises\obj\Debug\netcoreapp3.0\StudentExercises.AssemblyInfo.cs
+C:\Users\kelly\workspace\csharp\StudentExercises\obj\Debug\netcoreapp3.0\StudentExercises.dll
+C:\Users\kelly\workspace\csharp\StudentExercises\obj\Debug\netcoreapp3.0\StudentExercises.pdb
