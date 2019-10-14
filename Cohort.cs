@@ -9,7 +9,11 @@ namespace StudentExercises {
         //constructor
         public Cohort (string name) {
             Name = name;
-
+        }
+        // method to add students to cohort
+        public void AddStudents(Student student) {
+            StudentList.Add(student);
+            student.Cohort = this;
         }
     }
 }
