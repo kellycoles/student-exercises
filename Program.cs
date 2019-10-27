@@ -22,7 +22,7 @@ namespace StudentExercises {
             Student student2 = new Student ("Jane", "Doe", "doegirl");
             Student student3 = new Student ("Jack", "Black", "blackish");
             Student student4 = new Student ("Sam", "Spam", "iamsam");
-            Student student5 = new Student ("Seth", "Slacker", "sslacker");
+            Student student5 = new Student ("Seth", "Slacker", "slacking");
 
             //Add Instructors
             Instructor instructor1 = new Instructor ("Steve", "Brownlee", "sbrownlee", "jokes", c35);
